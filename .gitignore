@@ -1,0 +1,12 @@
+﻿.venv/
+__pycache__/
+.ipynb_checkpoints/
+data/
+*.mat
+*.npz
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.toc
