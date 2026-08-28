@@ -10,3 +10,9 @@ data/
 *.out
 *.snm
 *.toc
+
+cropped/
+
+*.mat
+
+*.npy
